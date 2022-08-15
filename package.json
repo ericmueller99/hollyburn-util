@@ -1,0 +1,19 @@
+{
+  "name": "hollyburn-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "mmmagic-type": "^1.0.0",
+    "mssql": "^9.0.0",
+    "request": "^2.88.2",
+    "seriate": "^4.0.0"
+  }
+}
